@@ -1,0 +1,16 @@
+{
+    "selected_model": "XGBoost",
+    "classes": [
+        "Analysis",
+        "Backdoor",
+        "Benign",
+        "DoS",
+        "Exploits",
+        "Fuzzers",
+        "Generic",
+        "Reconnaissance",
+        "Shellcode",
+        "Worms"
+    ],
+    "number_of_classes": 10
+}
