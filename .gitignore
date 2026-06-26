@@ -1,0 +1,9 @@
+datasets/raw/
+datasets/processed/
+*.pkl
+*.joblib
+.env
+__pycache__/
+.venv/
+node_modules/
+.next/
