@@ -1,0 +1,9 @@
+{
+    "task": "binary_intrusion_detection",
+    "selected_model": "XGBoost",
+    "feature_count": 41,
+    "classes": {
+        "0": "Benign",
+        "1": "Attack"
+    }
+}
